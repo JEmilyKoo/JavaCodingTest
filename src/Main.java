@@ -1,1 +1,1 @@
-import java.util.*;public class Main {public static void main(String[] args) {Scanner s = new Scanner(System.in);int a=s.nextInt();int b=s.nextInt();System.out.print((a+b)+"\n"+(a-b)+"\n"+a*b+"\n"+a/b+"\n"+a%b);}}
+import java.util.*;public class Main {public static void main(String[] args) {Scanner s = new Scanner(System.in);int a=s.nextInt();int b=s.nextInt();System.out.print((a+b)+"\n"+(a-b)+"\n"+a*b+"\n"+a/b+"\n"+a%b);s.close();}}
