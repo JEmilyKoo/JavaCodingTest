@@ -1,0 +1,95 @@
+[17.07.11 23:28:57] [INFO ]  [857891319@qtp-2014864953-200738 com.galileo.http.marshaler.HttpSerialConsumerMarshaler:50 ] - ##galileo_bc start. MessageExchange_ID:ID:localhost-15a6308ba1c-6:86071480
+[17.07.11 23:28:57] [INFO ]  [857891319@qtp-2014864953-200738 com.galileo.http.marshaler.HttpSerialConsumerMarshaler:50 ] - ##galileo_bc start. MessageExchange_ID:ID:localhost-15a6308ba1c-6:86071481
+[17.07.11 23:28:57] [INFO ]  [857891319@qtp-2014864953-200738 com.galileo.http.marshaler.HttpSerialConsumerMarshaler:50 ] - ##galileo_bc start. MessageExchange_ID:ID:localhost-15a6308ba1c-6:86071482
+[17.07.11 23:28:57] [INFO ]  [857891319@qtp-2014864953-200738 com.galileo.http.marshaler.HttpSerialConsumerMarshaler:50 ] - ##galileo_bc start. MessageExchange_ID:ID:localhost-15a6308ba1c-6:86071483
+[17.07.11 23:28:57] [INFO ]  [857891319@qtp-2014864953-200738 com.galileo.http.marshaler.HttpSerialConsumerMarshaler:83 ] - ## RESPONSE BC IN !!
+[17.07.11 23:28:57] [INFO ]  [857891319@qtp-2014864953-200738 com.galileo.http.marshaler.HttpSerialConsumerMarshaler:94 ] - ## RESPONSE BC OUT !! 
+[17.07.11 23:28:57] [INFO ]  [857891319@qtp-2014864953-200738 com.galileo.http.marshaler.HttpSerialConsumerMarshaler:96 ] - ##galileo_bc end. MessageExchange_ID:ID:localhost-15a6308ba1c-6:86071476
+[17.07.11 23:28:57] [INFO ]  [857891319@qtp-2014864953-200738 com.galileo.http.marshaler.HttpSerialConsumerMarshaler:96 ] - ##galileo_bc end. MessageExchange_ID:ID:localhost-15a6308ba1c-6:86071477
+[17.07.11 23:28:57] [INFO ]  [857891319@qtp-2014864953-200738 com.galileo.http.marshaler.HttpSerialConsumerMarshaler:96 ] - ##galileo_bc end. MessageExchange_ID:ID:localhost-15a6308ba1c-6:86071478
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50615066 galileo.site.SiteBean:317 ] - ##galileo_bean end. MessageExchange_ID:ID:localhost-15a6308ba1c-6:86071477
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50615066 galileo.site.SiteBean:611 ] - ################## cookie : null
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50615066 galileo.site.soap.EsbSoapUtil:182 ] - SoapConnectionPool active:5, idle:995
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50615066 galileo.site.soap.EsbSoapUtil:194 ] - header: {Date=Tue, 11 Jul 2017 14:28:56 GMT, Keep-Alive=timeout=120, max=393, Server=Apache, Content-Type=multipart/related; boundary="----=_Part_253027_393967677.1499783337155"; type="text/xml"; start="1787740081.1499783337155.apache-soap.MUCEAP208"; charset=utf-8, Connection=Keep-Alive, Vary=Cookie, Accept-Encoding}
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50615066 galileo.site.soap.EsbSoapUtil:195 ] - Cookie: null
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50615066 galileo.site.soap.SOAPHTTPConnection:175 ] - #galileo call time:593 ms
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50617019 galileo.site.SiteBean:314 ] - StopWatch 'Time Watch [JSESSION_ID:]': running time (millis) = 800-----------------------------------------ms     %     Task name-----------------------------------------00000  000%  1. Before Marshalling00001  000%  2. Marshalling00744  093%  3. Invoking galileo00055  007%  4. Unmarshalling and Send to CmmMod Server
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50617019 galileo.site.SiteBean:317 ] - ##galileo_bean end. MessageExchange_ID:ID:localhost-15a6308ba1c-6:86071476
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50617019 galileo.site.SiteBean:611 ] - ################## cookie : JSESSIONID=shMyDZOonM7e4pnFPuO9ItKVp2NgXv4W-62Gj4r1nZPUuLU7Jlsl!1862488192!713444904; path=/
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50617019 galileo.site.soap.EsbSoapUtil:182 ] - SoapConnectionPool active:4, idle:996
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50617019 galileo.site.soap.EsbSoapUtil:194 ] - header: {Date=Tue, 11 Jul 2017 14:28:56 GMT, Keep-Alive=timeout=120, max=493, Server=Apache, Set-Cookie=JSESSIONID=shMyDZOonM7e4pnFPuO9ItKVp2NgXv4W-62Gj4r1nZPUuLU7Jlsl!1862488192!713444904; path=/, Content-Type=multipart/related; boundary="----=_Part_247839_1450615217.1499783337200"; type="text/xml"; start="195419134.1499783337200.apache-soap.MUCEAP209"; charset=utf-8, Connection=Keep-Alive, Vary=Accept-Encoding}
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50617019 galileo.site.soap.EsbSoapUtil:195 ] - Cookie: JSESSIONID=shMyDZOonM7e4pnFPuO9ItKVp2NgXv4W-62Gj4r1nZPUuLU7Jlsl!1862488192!713444904; path=/
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50617019 galileo.site.soap.HttpClientUtils:100 ] - Content-Length:20634
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50617019 galileo.site.soap.HttpClientUtils:143 ] - [leased: 4; pending: 0; available: 22; max: 1000]
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50617019 galileo.site.soap.HttpClientUtils:91 ] - galileo call status:HTTP/1.1 200 OK, Cookie:null
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50617019 galileo.site.soap.SOAPHTTPConnection:175 ] - #galileo call time:722 ms
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618092 galileo.log.jms.SiteJMSLogShooter:83 ] - header.get(galileoCode.KEY_REQ_JSESSIONID) : 59UyDX-GIidKvFmas4lHEvZ_zZor7DUpwz0fEdkvPr5jLLWPojwz!1862488192!713444904
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618092 galileo.site.SiteBean:126 ] - ##galileo_bean start. MessageExchange_ID:ID:localhost-15a6308ba1c-6:86071481
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618092 galileo.site.SiteBean:349 ] - ########################## reqMap.get(KEY_REQ_JSESSIONID)59UyDX-GIidKvFmas4lHEvZ_zZor7DUpwz0fEdkvPr5jLLWPojwz!1862488192!713444904
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618092 galileo.site.SiteBean:641 ] - SSL used -- https://localhost/soap/SOAPService
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618092 galileo.site.soap.EsbSoapUtil:126 ] - #galileo invoke start.
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618092 galileo.site.soap.SiteCall:172 ] - InjectJSessionId: 59UyDX-GIidKvFmas4lHEvZ_zZor7DUpwz0fEdkvPr5jLLWPojwz!1862488192!713444904
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618153 galileo.site.SiteBean:314 ] - StopWatch 'Time Watch [JSESSION_ID:nJIyDZGDBUhmsqZlRlzGAdojs2yl_OKPVDCNBiyEl_u5cuzppI3v!1151030744!-1951619030]': running time (millis) = 605-----------------------------------------ms     %     Task name-----------------------------------------00000  000%  1. Before Marshalling00001  000%  2. Marshalling00600  099%  3. Invoking galileo00004  001%  4. Unmarshalling and Send to CmmMod Server
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618153 galileo.site.SiteBean:317 ] - ##galileo_bean end. MessageExchange_ID:ID:localhost-15a6308ba1c-6:86071478
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618153 galileo.site.SiteBean:611 ] - ################## cookie : null
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618153 galileo.site.soap.EsbSoapUtil:182 ] - SoapConnectionPool active:5, idle:995
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618153 galileo.site.soap.EsbSoapUtil:194 ] - header: {Date=Tue, 11 Jul 2017 14:28:57 GMT, Keep-Alive=timeout=120, max=337, Server=Apache, Content-Type=multipart/related; boundary="----=_Part_231026_464767655.1499783337416"; type="text/xml"; start="728396772.1499783337416.apache-soap.MUCEAP207"; charset=utf-8, Connection=Keep-Alive, Vary=Cookie, Accept-Encoding}
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618153 galileo.site.soap.EsbSoapUtil:195 ] - Cookie: null
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618153 galileo.site.soap.HttpClientUtils:100 ] - Content-Length:1479
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618153 galileo.site.soap.HttpClientUtils:143 ] - [leased: 4; pending: 0; available: 22; max: 1000]
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618153 galileo.site.soap.HttpClientUtils:91 ] - galileo call status:HTTP/1.1 200 OK, Cookie:null
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618153 galileo.site.soap.SOAPHTTPConnection:175 ] - #galileo call time:589 ms
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618494 galileo.log.jms.SiteJMSLogShooter:83 ] - header.get(galileoCode.KEY_REQ_JSESSIONID) : fZsyDA4YB5zAMqoFOnjRKaw5NxWal1IoLqHsvvOEnjLlkvJ_ReRZ!-795033335!725376392
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618494 galileo.site.SiteBean:126 ] - ##galileo_bean start. MessageExchange_ID:ID:localhost-15a6308ba1c-6:86071480
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618494 galileo.site.SiteBean:349 ] - ########################## reqMap.get(KEY_REQ_JSESSIONID)fZsyDA4YB5zAMqoFOnjRKaw5NxWal1IoLqHsvvOEnjLlkvJ_ReRZ!-795033335!725376392
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618494 galileo.site.SiteBean:641 ] - SSL used -- https://localhost/soap/SOAPService
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618494 galileo.site.soap.EsbSoapUtil:126 ] - #galileo invoke start.
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618494 galileo.site.soap.SiteCall:172 ] - InjectJSessionId: fZsyDA4YB5zAMqoFOnjRKaw5NxWal1IoLqHsvvOEnjLlkvJ_ReRZ!-795033335!725376392
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618686 galileo.log.jms.SiteJMSLogShooter:83 ] - header.get(galileoCode.KEY_REQ_JSESSIONID) : 
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618686 galileo.site.SiteBean:126 ] - ##galileo_bean start. MessageExchange_ID:ID:localhost-15a6308ba1c-6:86071482
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618686 galileo.site.SiteBean:349 ] - ########################## reqMap.get(KEY_REQ_JSESSIONID)
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618686 galileo.site.SiteBean:641 ] - SSL used -- https://localhost/soap/SOAPService
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618686 galileo.site.soap.EsbSoapUtil:126 ] - #galileo invoke start.
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618721 galileo.log.jms.SiteJMSLogShooter:83 ] - header.get(galileoCode.KEY_REQ_JSESSIONID) : nJIyDZGDBUhmsqZlRlzGAdojs2yl_OKPVDCNBiyEl_u5cuzppI3v!1151030744!-1951619030
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618721 galileo.site.SiteBean:126 ] - ##galileo_bean start. MessageExchange_ID:ID:localhost-15a6308ba1c-6:86071483
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618721 galileo.site.SiteBean:349 ] - ########################## reqMap.get(KEY_REQ_JSESSIONID)nJIyDZGDBUhmsqZlRlzGAdojs2yl_OKPVDCNBiyEl_u5cuzppI3v!1151030744!-1951619030
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618721 galileo.site.SiteBean:641 ] - SSL used -- https://localhost/soap/SOAPService
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618721 galileo.site.soap.EsbSoapUtil:126 ] - #galileo invoke start.
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618721 galileo.site.soap.SiteCall:172 ] - InjectJSessionId: nJIyDZGDBUhmsqZlRlzGAdojs2yl_OKPVDCNBiyEl_u5cuzppI3v!1151030744!-1951619030
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618860 galileo.site.SiteBean:611 ] - ################## cookie : null
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618860 galileo.site.soap.EsbSoapUtil:182 ] - SoapConnectionPool active:5, idle:995
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618860 galileo.site.soap.EsbSoapUtil:194 ] - header: {Date=Tue, 11 Jul 2017 14:28:50 GMT, Keep-Alive=timeout=120, max=111, Server=Apache, Content-Type=multipart/related; boundary="----=_Part_252103_1943575077.1499783337055"; type="text/xml"; start="1543533971.1499783337055.apache-soap.MUCEAP211"; charset=utf-8, Connection=Keep-Alive, Vary=Cookie, Accept-Encoding}
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618860 galileo.site.soap.EsbSoapUtil:195 ] - Cookie: null
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618860 galileo.site.soap.HttpClientUtils:100 ] - Content-Length:41544
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618860 galileo.site.soap.HttpClientUtils:143 ] - [leased: 5; pending: 0; available: 21; max: 1000]
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618860 galileo.site.soap.HttpClientUtils:91 ] - galileo call status:HTTP/1.1 200 OK, Cookie:null
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618860 galileo.site.soap.SOAPHTTPConnection:175 ] - #galileo call time:6844 ms
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618870 galileo.site.SiteBean:314 ] - StopWatch 'Time Watch [JSESSION_ID:]': running time (millis) = 1506-----------------------------------------ms     %     Task name-----------------------------------------00000  000%  1. Before Marshalling00002  000%  2. Marshalling01386  092%  3. Invoking galileo00118  008%  4. Unmarshalling and Send to CmmMod Server
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618870 galileo.site.SiteBean:611 ] - ################## cookie : JSESSIONID=G2UyDZHx276H9rTJlmspt69yk0TpyfszvKrrW1qAX6C-Hxxy3mll!1031785963!2103060569; path=/
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618870 galileo.site.soap.EsbSoapUtil:182 ] - SoapConnectionPool active:4, idle:996
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618870 galileo.site.soap.EsbSoapUtil:194 ] - header: {Date=Tue, 11 Jul 2017 14:28:56 GMT, Keep-Alive=timeout=120, max=99, Server=Apache, Set-Cookie=JSESSIONID=G2UyDZHx276H9rTJlmspt69yk0TpyfszvKrrW1qAX6C-Hxxy3mll!1031785963!2103060569; path=/, Content-Type=multipart/related; boundary="----=_Part_250564_1176004506.1499783337464"; type="text/xml"; start="1214695937.1499783337464.apache-soap.MUCEAP210"; charset=utf-8, Connection=Keep-Alive, Vary=Accept-Encoding}
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618870 galileo.site.soap.EsbSoapUtil:195 ] - Cookie: JSESSIONID=G2UyDZHx276H9rTJlmspt69yk0TpyfszvKrrW1qAX6C-Hxxy3mll!1031785963!2103060569; path=/
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618870 galileo.site.soap.HttpClientUtils:100 ] - Content-Length:17869
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618870 galileo.site.soap.HttpClientUtils:143 ] - [leased: 4; pending: 0; available: 22; max: 1000]
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618870 galileo.site.soap.HttpClientUtils:91 ] - galileo call status:HTTP/1.1 200 OK, Cookie:null
+[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50618870 galileo.site.soap.SOAPHTTPConnection:175 ] - #galileo call time:1374 ms
+[17.07.11 23:28:57] [WARN ]  [eclipse.galileo-bean-thread-50618092 galileo.site.SiteBean:157 ] - -----------------------------------------------------------------------------------------------------------
+[17.07.11 23:28:57] [WARN ]  [eclipse.galileo-bean-thread-50618092 galileo.site.SiteBean:158 ] - ESB_TRAN_ID : IF_1003_01_bd74c991-05f4-4092-bc16-c697bacd75de
+[17.07.11 23:28:57] [WARN ]  [eclipse.galileo-bean-thread-50618092 galileo.site.SiteBean:159 ] - -----------------------------------------------------------------------------------------------------------
+[17.07.11 23:28:57] [WARN ]  [eclipse.galileo-bean-thread-50618494 galileo.site.SiteBean:157 ] - -----------------------------------------------------------------------------------------------------------
+[17.07.11 23:28:57] [WARN ]  [eclipse.galileo-bean-thread-50618494 galileo.site.SiteBean:158 ] - ESB_TRAN_ID : IF_1007_01_3f17989d-bd48-4abe-8b17-fc8e54dd0a48
+[17.07.11 23:28:57] [WARN ]  [eclipse.galileo-bean-thread-50618494 galileo.site.SiteBean:159 ] - -----------------------------------------------------------------------------------------------------------
+[17.07.11 23:28:57] [WARN ]  [eclipse.galileo-bean-thread-50618686 galileo.site.SiteBean:157 ] - -----------------------------------------------------------------------------------------------------------
+[17.07.11 23:28:57] [WARN ]  [eclipse.galileo-bean-thread-50618686 galileo.site.SiteBean:158 ] - ESB_TRAN_ID : IF_1001_01_34197088-5720-4119-8f3b-f2fe4f5822c6
+[17.07.11 23:28:57] [WARN ]  [eclipse.galileo-bean-thread-50618686 galileo.site.SiteBean:159 ] - -----------------------------------------------------------------------------------------------------------
+[17.07.11 23:28:57] [WARN ]  [eclipse.galileo-bean-thread-50618721 galileo.site.SiteBean:157 ] - -----------------------------------------------------------------------------------------------------------
+[17.07.11 23:28:57] [WARN ]  [eclipse.galileo-bean-thread-50618721 galileo.site.SiteBean:158 ] - ESB_TRAN_ID : IF_1026_01_069098e8-fba6-4a8d-a59a-7ebbc6c79b81
+[17.07.11 23:28:57] [WARN ]  [eclipse.galileo-bean-thread-50618721 galileo.site.SiteBean:159 ] - -----------------------------------------------------------------------------------------------------------
+[17.07.11 23:28:57] [WARN ]  [listenerContainer-2 galileo.site.SiteLogger:81 ] - Process End |F:true|D:true-----------------------
+[17.07.11 23:28:57] [WARN ]  [listenerContainer-3 galileo.site.SiteLogger:81 ] - Process End |F:true|D:true-----------------------
+[17.07.11 23:28:57] [WARN ]  [listenerContainer-4 galileo.site.PIPLogger:67 ] - Process End |F:true|D:true-----------------------
+[17.07.11 23:28:57] [WARN ]  [listenerContainer-4 galileo.site.SiteLogger:81 ] - Process End |F:true|D:true-----------------------
+[17.07.11 23:28:57] [WARN ]  [listenerContainer-6 galileo.site.SiteLogger:81 ] - Process End |F:true|D:true-----------------------
+[17.07.11 23:28:57] [WARN ]  [listenerContainer-8 galileo.site.SiteLogger:81 ] - Process End |F:true|D:true-----------------------
+[17.07.11 23:28:57] [WARN ]  [listenerContainer-9 galileo.site.SiteLogger:81 ] - Process End |F:true|D:true-----------------------
+null[17.07.11 23:28:57] [INFO ]  [eclipse.galileo-bean-thread-50615066 galileo.site.SiteBean:314 ] - StopWatch 'Time Watch [JSESSION_ID:fZsyDA4YB5zAMqoFOnjRKaw5NxWal1IoLqHsvvOEnjLlkvJ_ReRZ!-795033335!725376392]': running time (millis) = 650-----------------------------------------ms     %     Task name-----------------------------------------00000  000%  1. Before Marshalling00000  000%  2. Marshalling00631  097%  3. Invoking galileo00019  003%  4. Unmarshalling and Send to CmmMod Server
